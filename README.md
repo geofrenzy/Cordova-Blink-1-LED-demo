@@ -1,6 +1,6 @@
 Sample app that demonstrates the functionality of the Fencing Agent for Cordova. 
 
-To try it, just run:
+To try it, just clone it and run:
 ``` bash
 cordova build
 cordova run
