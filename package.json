@@ -11,7 +11,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "cordova-android": "^6.4.0",
-    "cordova-plugin-fencing-agent": "^0.1.7",
+    "cordova-plugin-fencing-agent": "^0.1.8",
     "cordova-plugin-whitelist": "^1.3.3",
     "net.geofrenzy.cordova.fencingagent": "0.1.1"
   },

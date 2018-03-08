@@ -1,8 +1,8 @@
 {
   "_from": "cordova-plugin-fencing-agent@^0.1.1",
-  "_id": "cordova-plugin-fencing-agent@0.1.1",
+  "_id": "cordova-plugin-fencing-agent@0.1.8",
   "_inBundle": false,
-  "_integrity": "sha512-EA5l45Paeg/wZsgsYYP8Bsl+V7RHpWxK1LSvApATWUezb6hR+utsnm10+o9gJKNI+EQkIpVm9SgWULvjDMeGbA==",
+  "_integrity": "sha512-hnwuVTgS2Uqk+r+kUghxFHJ1fLbr85rNlX4yr7JHaMDOZElGdwJDdLIAX2SetycjQTKrs0lQY36seLIP1LL/Ig==",
   "_location": "/cordova-plugin-fencing-agent",
   "_phantomChildren": {},
   "_requested": {
@@ -19,10 +19,10 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/cordova-plugin-fencing-agent/-/cordova-plugin-fencing-agent-0.1.1.tgz",
-  "_shasum": "62f4489fda6e9b5c2fb344bfc2880321608cd9f7",
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-fencing-agent/-/cordova-plugin-fencing-agent-0.1.8.tgz",
+  "_shasum": "7479aadf26d38611e297ea9cdcccc6a4e1484eeb",
   "_spec": "cordova-plugin-fencing-agent@^0.1.1",
-  "_where": "/Users/josh-randall/Workspace/CordovaSDK/lightbulb_app",
+  "_where": "/Users/josh-randall/Workspace/COR/cordova-blink-1-led-demo",
   "author": {
     "name": "Josh Randall"
   },
@@ -35,5 +35,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1.1"
+  "version": "0.1.8"
 }
